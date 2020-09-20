@@ -28,12 +28,12 @@ I want to become a Full Stack developer (html, css, javascript, node.js, angular
 }  
 ```
 ## Experience  
-https://redline.by/ frontend developer *Example:* https://pizzasmile.by - only frontend part  
-http://st-lt.ru/ modx developer *Example:* http://dev17.bmamonts.ru/ - frontend and cms modx
-Freelance *Example:* https://bestfish.by/ frontend, wordpress and woocommerce  
+[Redline](https://redline.by/) frontend developer *Example:* [Pizza Smile](https://pizzasmile.by) - only frontend part  
+[Site Elite](http://st-lt.ru/) modx developer *Example:* [Landing](http://dev17.bmamonts.ru/) - frontend and cms modx
+Freelance *Example:* [BestFish](https://bestfish.by/) frontend, wordpress and woocommerce  
 
 ## Education  
-The Rolling Scopes School, online courses on HTML, CSS and JavaScript on https://teamtreehouse.com and https://udemy.com.  
+The Rolling Scopes School, online courses on HTML, CSS and JavaScript on [teamtreehouse](https://teamtreehouse.com) and [udemy](https://udemy.com).  
 
 ## English  
 I freely read technical literature in English and listen to online courses  
