@@ -28,8 +28,10 @@ I want to become a Full Stack developer (html, css, javascript, node.js, angular
 }  
 ```
 ## Experience  
-[Redline](https://redline.by/) frontend developer *Example:* [Pizza Smile](https://pizzasmile.by) - only frontend part  
-[Site Elite](http://st-lt.ru/) modx developer *Example:* [Landing](http://dev17.bmamonts.ru/) - frontend and cms modx
+[Redline](https://redline.by/) frontend developer *Example:* [Pizza Smile](https://pizzasmile.by) - only frontend part   
+
+[Site Elite](http://st-lt.ru/) modx developer *Example:* [Landing](http://dev17.bmamonts.ru/) - frontend and cms modx  
+
 Freelance *Example:* [BestFish](https://bestfish.by/) frontend, wordpress and woocommerce  
 
 ## Education  
