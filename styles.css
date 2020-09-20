@@ -6,3 +6,7 @@
   border: 1px solid #b89999;
   border-radius: 2px;
 }
+
+@media (max-width: 590px) {
+  .main { width: auto; }
+} 
