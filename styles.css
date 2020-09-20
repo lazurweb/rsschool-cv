@@ -10,3 +10,13 @@
 @media (max-width: 590px) {
   .main { width: auto; }
 }
+
+.main-header {
+  text-align: center;
+  font-size: 26px;
+}
+
+.centered {
+  text-align: center;
+  font-size: 20px;
+}
