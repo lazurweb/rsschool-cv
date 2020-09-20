@@ -9,11 +9,19 @@
 
 @media (max-width: 590px) {
   .main { width: auto; }
-}
+} 
 
 .main-header {
   text-align: center;
   font-size: 26px;
+}
+
+.image { width: 200px; }
+
+.main-figure {
+  text-align: center;
+  margin: auto;
+  width: 100%;
 }
 
 .centered {
@@ -21,4 +29,3 @@
   font-size: 20px;
 }
 
-.image { width: 200px; }
